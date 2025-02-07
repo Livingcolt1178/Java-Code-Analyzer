@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "crwGSWb52hM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nrbra\\OneDrive\\Documents\\GitHub\\Java-Code-Analyzer\\WindowsFormsApplication1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nrbra\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",
+    "C:\\Users\\nrbra\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\nrbra\\.nuget\\packages\\system.collections.immutable\\9.0.1\\system.collections.immutable.9.0.1.nupkg.sha512",
+    "C:\\Users\\nrbra\\.nuget\\packages\\system.formats.nrbf\\9.0.1\\system.formats.nrbf.9.0.1.nupkg.sha512",
+    "C:\\Users\\nrbra\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\nrbra\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\nrbra\\.nuget\\packages\\system.reflection.metadata\\9.0.1\\system.reflection.metadata.9.0.1.nupkg.sha512",
+    "C:\\Users\\nrbra\\.nuget\\packages\\system.resources.extensions\\9.0.1\\system.resources.extensions.9.0.1.nupkg.sha512",
+    "C:\\Users\\nrbra\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\nrbra\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

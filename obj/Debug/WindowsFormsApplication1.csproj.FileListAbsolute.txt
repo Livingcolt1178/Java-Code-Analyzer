@@ -9,3 +9,9 @@ D:\Github\Error502\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.p
 D:\Github\Error502\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
 D:\Github\Error502\WindowsFormsApplication1\bin\Debug\Octokit.dll
 D:\Github\Error502\WindowsFormsApplication1\bin\Debug\Octokit.xml
+C:\Users\nrbra\OneDrive\Documents\GitHub\Java-Code-Analyzer\obj\Debug\WindowsFormsApplication1.csproj.AssemblyReference.cache
+C:\Users\nrbra\OneDrive\Documents\GitHub\Java-Code-Analyzer\obj\Debug\WindowsFormsApplication1.csproj.SuggestedBindingRedirects.cache
+C:\Users\nrbra\OneDrive\Documents\GitHub\Java-Code-Analyzer\obj\Debug\WindowsFormsApplication1.exe.config
+C:\Users\nrbra\OneDrive\Documents\GitHub\Java-Code-Analyzer\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\nrbra\OneDrive\Documents\GitHub\Java-Code-Analyzer\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\nrbra\OneDrive\Documents\GitHub\Java-Code-Analyzer\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache

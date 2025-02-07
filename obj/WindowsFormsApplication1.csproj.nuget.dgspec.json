@@ -1,0 +1,50 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\nrbra\\OneDrive\\Documents\\GitHub\\Java-Code-Analyzer\\WindowsFormsApplication1.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\nrbra\\OneDrive\\Documents\\GitHub\\Java-Code-Analyzer\\WindowsFormsApplication1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nrbra\\OneDrive\\Documents\\GitHub\\Java-Code-Analyzer\\WindowsFormsApplication1.csproj",
+        "projectName": "WindowsFormsApplication1",
+        "projectPath": "C:\\Users\\nrbra\\OneDrive\\Documents\\GitHub\\Java-Code-Analyzer\\WindowsFormsApplication1.csproj",
+        "packagesPath": "C:\\Users\\nrbra\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nrbra\\OneDrive\\Documents\\GitHub\\Java-Code-Analyzer\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "UsingMicrosoftNETSdk": false,
+        "configFilePaths": [
+          "C:\\Users\\nrbra\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net481"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net481": {
+            "projectReferences": {}
+          }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net481": {
+          "dependencies": {
+            "System.Resources.Extensions": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}

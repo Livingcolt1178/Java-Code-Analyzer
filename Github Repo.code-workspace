@@ -1,0 +1,22 @@
+{
+    "folders": [
+		{
+			"path": "../../../../../../APCS"
+		},
+		{
+			"path": "../../../../../../Coding Projects Python"
+		},
+		{
+			"path": "../../../../../../Coding Projects Java"
+		}
+	],
+    "settings": {
+        "java.project.sourcePaths": [
+            ".",
+            "Advent of Code 2023\\3"
+        ],
+        "java.debug.settings.onBuildFailureProceed": true,
+        "java.project.referencedLibraries": [],
+        "liveServer.settings.multiRootWorkspaceName": "Coding Projects Java"
+    }
+}
